@@ -1,0 +1,24 @@
+Date:,2/24/22 00:00,,,,,,,,,,,
+Component Count:,,18,,,,,,,,,,
+,,,,,,,,,,,,
+Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,,,,Part Number,,,,,Footprint
+1,2,"C1, C2",1uF,,,,CL21B105KAFNNNG,,,,,Capacitor_SMD:C_0805_2012Metric
+2,1,C3,0.1uF,,,,160R15W104KV4T,,,,,Capacitor_SMD:C_0805_2012Metric
+3,2,"C4, C5",18pF,,,,399-8030-1-ND,,,,,Capacitor_SMD:C_0805_2012Metric
+4,1,D1,LED RED 0805 SMD,,,,LS R976-NR-1,,,,,LED_SMD:LED_0805_2012Metric
+5,1,J1,BH9VPC,,,,BH9VPC,,,,,Battery:BatteryHolder_Eagle_12BH611-GR
+6,2,"J2, J4, J5","PIN HEADER , THR, SINGLE ROW,.10",,,,PR20206VBNN,,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+7,1,J3,PIN HEADER 2.54MM PITCH STR DIP,,,,G800LQ591018EU,,,,,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical
+8,1,R1,10k?,,,,Device:R_US,,,,,Resistor_SMD:R_0805_2012Metric
+9,1,R2,330?,,,,Device:R_US,,,,,Resistor_SMD:R_0805_2012Metric
+10,1,SW1,SW_SPST,,,,108-0047-EVX,,,,,SPST:SPST
+11,1,U1,LDO 5V Regulator,,,,MCP1755S:MCP1755S-5002E{slash}DB,,,,,MCP1755S:MCP1755S-5002E&slash_DB
+12,1,U2,ATmega328-P,,,,MCU_Microchip_ATmega:ATmega328-P,,,,,Package_DIP:DIP-28_W7.62mm
+13,1,Y1,Crystal,,,,1923-830051235CT,,,,,Crystal:Crystal_SMD_HC49-SD
+14,1,N/A,I2C LCD Module,,,,2004A-V1.1,,,,,N/A
+15,1,N/A,9V Battery,,,,EN22,,,,,N/A
+16,1,N/A,Soil Moisture Sensor,,,,EK1940,,,,,N/A
+17,4,N/A,"HEX STANDOFF #4-40 ALUMINUM 1/2""",,,,2203,,,,,N/A
+18,4,N/A,MACHINE SCREW PAN PHILLIPS 4-40,,,,PMSSS 440 0025 PH,,,,,N/A
